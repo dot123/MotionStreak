@@ -1,0 +1,9 @@
+{
+  "engine": "cocos2d-html5",
+  "packages": "packages",
+  "version": "2.3.3",
+  "name": "MotionStreak",
+  "uuid": "e6884cfc-7ff6-4f55-94be-803e64590835",
+  "id": "fd720dcb-542b-4559-a3cd-d37ed3395a56",
+  "isNew": false
+}
